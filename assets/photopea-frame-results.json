@@ -1,0 +1,35 @@
+{
+  "frame0": {
+    "hasCanvas": false,
+    "canvasW": null,
+    "canvasH": null,
+    "bodyChildren": 6,
+    "ui": [
+      {
+        "tag": "button",
+        "cls": "",
+        "txt": "Start using Photopea"
+      },
+      {
+        "tag": "button",
+        "cls": "",
+        "txt": "Start using Photopea"
+      },
+      {
+        "tag": "button",
+        "cls": "",
+        "txt": "Start using Photopea"
+      },
+      {
+        "tag": "button",
+        "cls": "",
+        "txt": "Start using Photopea"
+      },
+      {
+        "tag": "button",
+        "cls": "",
+        "txt": "Start using Photopea"
+      }
+    ]
+  }
+}

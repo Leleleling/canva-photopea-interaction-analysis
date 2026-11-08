@@ -1,0 +1,101 @@
+{
+  "inputs": [
+    {
+      "type": "file",
+      "val": "",
+      "ph": ""
+    },
+    {
+      "type": "checkbox",
+      "val": "on",
+      "ph": ""
+    },
+    {
+      "type": "checkbox",
+      "val": "on",
+      "ph": ""
+    },
+    {
+      "type": "text",
+      "val": "",
+      "ph": ""
+    },
+    {
+      "type": "text",
+      "val": "新建项目",
+      "ph": ""
+    },
+    {
+      "type": "text",
+      "val": "1280",
+      "ph": ""
+    },
+    {
+      "type": "text",
+      "val": "720",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    },
+    {
+      "type": "text",
+      "val": "72",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    },
+    {
+      "type": "checkbox",
+      "val": "on",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    },
+    {
+      "type": "select-one",
+      "val": "0",
+      "ph": ""
+    }
+  ],
+  "buttons": [
+    "Start using Photopea",
+    "Start using Photopea",
+    "Start using Photopea",
+    "Start using Photopea",
+    "Start using Photopea",
+    "?",
+    "Social",
+    "打印",
+    "照片",
+    "屏幕",
+    "移动",
+    "广告",
+    "2ᴺ",
+    "⇆",
+    "创建",
+    "关于",
+    "反馈错误",
+    "学习",
+    "Blog",
+    "API"
+  ]
+}

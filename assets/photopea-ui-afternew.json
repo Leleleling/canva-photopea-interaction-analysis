@@ -1,0 +1,16 @@
+{
+  "toolCount": 0,
+  "tools": [],
+  "panelCount": 2,
+  "panels": [
+    {
+      "cls": "panelblock mainblock",
+      "text": "主页 本地设备 PeaDrive Dro"
+    },
+    {
+      "cls": "panelhead",
+      "text": ""
+    }
+  ],
+  "canvases": []
+}

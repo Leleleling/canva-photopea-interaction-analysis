@@ -1,0 +1,187 @@
+{
+  "canvases": [
+    {
+      "w": 34,
+      "h": 34,
+      "cls": ""
+    },
+    {
+      "w": 1011,
+      "h": 951,
+      "cls": ""
+    },
+    {
+      "w": 32,
+      "h": 18,
+      "cls": ""
+    }
+  ],
+  "tools": [
+    {
+      "c": "toolconf",
+      "title": "",
+      "txt": "自动选择文件夹图层显"
+    },
+    {
+      "c": "toolicon gsicon",
+      "title": "",
+      "txt": ""
+    },
+    {
+      "c": "sbar toolbar",
+      "title": "",
+      "txt": ""
+    },
+    {
+      "c": "tools",
+      "title": "",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn active",
+      "title": "移动 (V)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "矩形选框 (M)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "套索 (L)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "魔棒 (W)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "裁剪 (C)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "吸管 (I)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "污点修复画笔 (J)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "画笔 (B)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "仿制图章 (S)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "橡皮擦 (E)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "渐变 (G)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "模糊",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "减淡 (O)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "文字 (T)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "钢笔 (P)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "路径选择 (A)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "矩形 (U)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "抓手 (H)",
+      "txt": ""
+    },
+    {
+      "c": "toolbtn",
+      "title": "缩放 (Z)",
+      "txt": ""
+    }
+  ],
+  "panels": [
+    {
+      "c": "panelblock mainblock",
+      "txt": "新建项目.psd"
+    },
+    {
+      "c": "panelhead",
+      "txt": "新建项目.psd"
+    },
+    {
+      "c": "panelblock",
+      "txt": "↕"
+    },
+    {
+      "c": "panelhead",
+      "txt": "↕"
+    },
+    {
+      "c": "panelblock",
+      "txt": ""
+    },
+    {
+      "c": "panelblock",
+      "txt": ""
+    },
+    {
+      "c": "panelblock",
+      "txt": ""
+    },
+    {
+      "c": "panelblock",
+      "txt": ""
+    },
+    {
+      "c": "panelblock",
+      "txt": "历史记录色板≡打开"
+    },
+    {
+      "c": "panelhead",
+      "txt": "历史记录色板≡"
+    },
+    {
+      "c": "panelblock",
+      "txt": "图层通道路径≡正常溶解变暗正"
+    },
+    {
+      "c": "panelhead",
+      "txt": "图层通道路径≡"
+    }
+  ],
+  "sidebar": []
+}
